@@ -1,9 +1,4 @@
-<body></body>
-
-
-
-
- <!DOCTYPE html>
+<body>
 <html>
 <head>
   <title>20x20 Pixel Button</title>
