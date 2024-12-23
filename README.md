@@ -4,13 +4,13 @@
   <title>20x20 Pixel Button</title>
   <style>
     .pixel-button {
-      width: 20px;
-      height: 20px;
+      width: 100px;
+      height: 100px;
       padding: 0;
-      margin: 0;
+      margin: 0;&
       border: 1px solid #ccc; 
       background-color: #eee;
-      font-size: 8px; 
+      font-size: 17px; 
       cursor: pointer; 
     }
   </style>
