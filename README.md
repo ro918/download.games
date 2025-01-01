@@ -16,7 +16,7 @@
   </style>
 </head>
 <body>
-  <button class="pixel-button">Click Me</button>
+  <button class="pixel-button">This website is da GOAT</button>
 
   <script>
     const button = document.querySelector('.pixel-button');
