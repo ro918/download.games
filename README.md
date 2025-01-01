@@ -23,7 +23,7 @@
 
     button.addEventListener('click', () => {
       // Perform an action on button click
-      alert('Button clicked!'); 
+      alert('THIS WEBSITE IS DA GOAT AND U NOT DA GOAT'); 
     });
   </script>
 </body>
