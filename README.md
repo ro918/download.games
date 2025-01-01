@@ -16,7 +16,7 @@
   </style>
 </head>
 <body>
-  <button class="pixel-button">This website is da GOAT</button>
+  <button class="pixel-button">Do NOT Click This button</button>
 
   <script>
     const button = document.querySelector('.pixel-button');
