@@ -11,6 +11,7 @@
       border: 1px solid #ccc; 
       background-color: #eee;
       font-size: 17px; 
+      ui-corner: 10
       cursor: pointer; 
     }
   </style>
