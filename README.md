@@ -1,7 +1,6 @@
 <body>
 <html>
 <head>
-  <title>20x20 Pixel Button</title>
   <style>
     .pixel-button {
       width: 100px;
