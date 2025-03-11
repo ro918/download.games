@@ -6,8 +6,8 @@
     .pixel-button {
       width: 100px;
       height: 100px;
-      padding: 0;
-      margin: 0;&
+      padding: 1;
+      margin: 1;&
       border: 1px solid #ccc; 
       background-color: #eee;
       font-size: 17px; 
